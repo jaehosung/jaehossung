@@ -4,7 +4,7 @@ title:  "First Blogging"
 date:   2018-06-16 00:13:31 +0900
 categories: blog
 ---
-I promised me to start the blog many times, but I never tried.
+I promised me to start my blog many times, but I never tried.
 It took 1 years to write my first post.
 Well begun is half done! I hope not to stop blogging.
 
