@@ -1,6 +1,0 @@
-var store = [{
-        "title": "First Blogging",
-        "excerpt":"I promised me to start my blog many times, but I never tried.It took 1 years to write my first post.Well begun is half done! I hope not to stop blogging. def function():\tprint(\"Hello, my Blog!\")","categories": ["blog"],
-        "tags": [],
-        "url": "http://localhost:4000/blog/2018/06/16/welcome-to-jekyll.html"
-      }]
